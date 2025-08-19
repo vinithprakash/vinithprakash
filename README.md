@@ -15,135 +15,42 @@
 ## 🌐 Web Technologies  
 
 ### 🎨 Frontend  
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90" height="90"/><br/>
-      <b>HTML5</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90" height="90"/><br/>
-      <b>CSS3</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="90" height="90"/><br/>
-      <b>React</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="90" height="90"/><br/>
-      <b>TypeScript</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
+</p>
 
 ---
 
 ### ⚙ Backend  
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" height="90"/><br/>
-      <b>Python</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90" height="90"/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="90" height="90"/><br/>
-      <b>GoLang</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90" height="90"/><br/>
-      <b>JavaScript</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+</p>
 
 ---
 
 ### 🗄️ Database  
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="90" height="90"/><br/>
-      <b>MySQL</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="90" height="90"/><br/>
-      <b>MongoDB</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="90" height="90"/><br/>
-      <b>PostgreSQL</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### ☁ Cloud Computing  
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://www.bing.com/th/id/OIP.kLxGwQM5jEi8qGapSqcIxAHaHa?w=217&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.2&pid=3.1&rm=2" width="90" height="90"/><br/>
-      <b>AWS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="90" height="90"/><br/>
-      <b>Azure</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="90" height="90"/><br/>
-      <b>Kubernetes</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
+</p>
 
 ---
 
 ### 🛠 Tools  
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90" height="90"/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://ts1.explicit.bing.net/th?id=OIP.fqZ9-PPqcG_cm0k3JfoINQHaEK&pid=15.1" width="90" height="90"/><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-3628927-3030165.png" width="90" height="90"/><br/>
-      <b>Kaggle</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-kaggle-3628927-3030165.png" width="60" height="60"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinithprakash&label=Profile%20Views&color=green&style=for-the-badge"/>
@@ -163,29 +70,25 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinithprakash&theme=react-dark&bg_color=0d1117&hide_border=true&line=38bdae&color=38bdae" height="250em"/>
 </p>
+
 ---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
   <a href="tel:+919345724789" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="40" height="40" style="margin: 0 25px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" height="30" style="margin: 0 20px; filter: grayscale(100%);" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"/>
   </a>
   <a href="mailto:vinithprakash0@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 25px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" style="margin: 0 20px; filter: grayscale(100%);" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"/>
   </a>
   <a href="https://www.linkedin.com/in/vinith-prakash-75233b31a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin: 0 25px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="margin: 0 20px; filter: grayscale(100%);" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"/>
   </a>
   <a href="https://www.instagram.com/vinith._.21?igsh=dTNzNDg3YjZhNjZj" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40" style="margin: 0 25px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" height="30" style="margin: 0 20px; filter: grayscale(100%);" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"/>
   </a>
   <a href="https://wa.me/919345724789" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" style="margin: 0 25px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30" height="30" style="margin: 0 20px; filter: grayscale(100%);" onmouseover="this.style.filter='grayscale(0%)'" onmouseout="this.style.filter='grayscale(100%)'"/>
   </a>
 </p>
-
-
-
-
-
-
